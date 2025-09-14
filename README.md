@@ -81,7 +81,7 @@ python rag/ask_question.py
 4. **Run Demo App**
 ```bash
 python app/demo_app.py
-
+---
 **📌 Requirements**
 
 - Python 3.9+
