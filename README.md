@@ -14,7 +14,7 @@ This project demonstrates how to preprocess biology content, build embeddings, s
 
 ---
 
-**📂 Project Structure**
+**📂 Project Structure** 
 ```
 bioRAG/
 │── app/
@@ -40,13 +40,6 @@ bioRAG/
 ```
 
 ---
-
-**🛠️ Installation & Setup**
-
-1. **Clone this repository**
-```bash
-git clone https://github.com/baqirbalti/bioRAG.git
-cd bioRAG
 
 **🛠️ Installation & Setup**
 
