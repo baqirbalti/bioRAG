@@ -82,33 +82,29 @@ python rag/ask_question.py
 ```bash
 python app/demo_app.py
 
-📌 Requirements
+**📌 Requirements**
 
-Python 3.9+
+- Python 3.9+
+- LangChain
+- FAISS
+- Hugging Face Transformers
+- PyPDF2 / pdfminer / fitz (for PDF processing)
+- Streamlit / FastAPI (for demo app)
 
-LangChain
+(Install via `requirements.txt`)
 
-FAISS
+---
 
-Hugging Face Transformers
+**📖 Future Improvements**
 
-PyPDF2 / pdfminer / fitz (for PDF processing)
+- Add support for multiple PDFs and datasets
+- Enhance the frontend (UI for live Q&A)
+- Fine-tune with biology-specific LLMs
+- Deploy online (Hugging Face Spaces / Streamlit Cloud / Docker)
 
-Streamlit / FastAPI (for demo app)
+---
 
-(Install via requirements.txt)
-
-📖 Future Improvements
-
-Add support for multiple PDFs and datasets
-
-Enhance the frontend (UI for live Q&A)
-
-Fine-tune with biology-specific LLMs
-
-Deploy online (Hugging Face Spaces / Streamlit Cloud / Docker)
-
-👨‍💻 Author
-Developed by Baqir Ali
-📧 Email: baqirbalti777@gmail.com
-🔗 GitHub: baqirbalti
+**👨‍💻 Author**  
+Developed by **Baqir Ali**  
+📧 Email: **baqirbalti777@gmail.com**  
+🔗 GitHub: [baqirbalti](https://github.com/baqirbalti)
